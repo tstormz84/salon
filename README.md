@@ -1,0 +1,2 @@
+# salon
+GitHub Pages
